@@ -1,4 +1,4 @@
-﻿Link git frontend:https://github.com/VladSandu0308/HouseShare-Front.git
+﻿Link git frontend: https://github.com/VladSandu0308/HouseShare-Front.git
 
 
-Link git backend:https://github.com/IoanaMaco/HouseShare-Back.git
+Link git backend: https://github.com/IoanaMaco/HouseShare-Back.git
